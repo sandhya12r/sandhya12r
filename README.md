@@ -23,16 +23,16 @@ Welcome to my GitHub! I'm a **Full Stack Developer** and **Business Development 
 
 ## ⚡ Skills
 
-**Languages**: JavaScript, TypeScript, PHP, Java, Liquid  
-**Frontend**: React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap  
-**Backend**: Node.js, Express.js, MongoDB, MySQL, Java EE  
-**Tools & Platforms**: Git, GitHub, Postman, Docker, Tomcat
+- **Languages**: JavaScript, TypeScript, PHP, Java, Liquid  
+- **Frontend**: React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap  
+- **Backend**: Node.js, Express.js, MongoDB, MySQL, Java EE  
+- **Tools & Platforms**: Git, GitHub, Postman, Docker, Tomcat
 
 ---
 
 ## 💻 Projects
 
-You can find all my open-source projects in the [Repositories](https://github.com/sandhya12r?tab=repositories) section of my GitHub.
+You can find all my open-source projects in the [Repositories](https://github.com/sandhya12r?tab=repositories) section of my GitHub, or on my profile page at [sandhyar.vercel.app](https://sandhyar.vercel.app).
 
 ---
 

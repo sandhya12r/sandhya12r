@@ -40,9 +40,9 @@ You can find all my open-source projects in the [Repositories](https://github.co
 
 ## 📈 GitHub Stats
 
-![Sandhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandhya12r&show_icons=true&count_private=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhya12r&layout=compact&theme=radical)
+![Sandhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandhya12r&show_icons=true&count_private=true&theme=radical) [![GitHub Streak](https://streak-stats.demolab.com?user=sandhya12r&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sandhya12r&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhya12r&layout=compact&theme=radical)
 
 ---
 

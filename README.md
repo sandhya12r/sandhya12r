@@ -6,18 +6,10 @@ Welcome to my GitHub! I'm a **Full Stack Developer** and **Business Development 
 
 ## 🚀 About Me
 
-- 💼 **Full Stack Developer & BDE** at **TLS Pvt Ltd**
+- 💼 **Full Stack Web Developer & BDE** at **TLS Pvt Ltd**
 - 🌱 Currently learning **Advanced JavaScript**, **DSA**, and productivity-enhancing dev tools
 - 💬 Ask me about: **JavaScript**, **React**, **Node.js**, **MongoDB**, etc.
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sandhya12r/) | [Email](mailto:sandhyardev12@gmail.com)
-
----
-
-## 🌟 Achievements
-
-- 🏆 Created over **20+ open-source repositories** on GitHub  
-- 🎓 Working full-time as a developer and helping businesses grow
-- 🟩 Active contributor with consistent GitHub streaks and engagement
 
 ---
 

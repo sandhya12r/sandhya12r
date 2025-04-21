@@ -10,6 +10,14 @@ Welcome to my GitHub! I'm a **Full Stack Developer** and **Business Development 
 
 ---
 
+## 📈 GitHub Stats
+
+![Sandhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandhya12r&show_icons=true&count_private=true&hide_title=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhya12r&layout=compact&theme=radical)
+
+---
+
 ## ⚡ Skills
 **Languages**: JavaScript, TypeScript, PHP  
 **Frontend**: React, Next.js, HTML5, CSS3, Tailwind CSS  
@@ -29,6 +37,4 @@ Here are some of the key projects I've worked on:
 
 ---
 
-## 🌟 Achievements
-- 🎓 **Full Stack Developer** at **TLS**
-- 💻 Created over **20+ open-source repositories** on GitHub
+

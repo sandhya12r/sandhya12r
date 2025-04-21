@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a **Full Stack Developer** and **Business Development 
 
 ## 🚀 About Me
 - 🧑‍💻 **Full Stack Developer & BDE** at [TLS](https://promfly.com)
-- 🌱 Currently learning **Advanced JavaScript**, **DSA**, and **Tech SEO**
+- 🌱 Currently learning **Advanced JavaScript**, **DSA**, and **Tech tools**
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, **MongoDB**, etc.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sandhya12r/) | [Email](mailto:sandhyardev12@gmail.com)
 
@@ -15,6 +15,8 @@ Welcome to my GitHub! I'm a **Full Stack Developer** and **Business Development 
 ![Sandhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandhya12r&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhya12r&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sandhya12r&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
